@@ -1,4 +1,4 @@
-# Ingenium MX - ¡Bienvenido a nuestro GitHub! 👋
+# Ingenium MX 👋
 
 **¡Hola!**  
 Ingenium MX se dedica a hacer proyectos de ingeniería, robótica, electrónica, software, diseño 3D y más.  
