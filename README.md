@@ -10,5 +10,5 @@ Nuestra pasión radica en ayudar a otros a aprender, crear e innovar con proyect
 - **Proyectos de Robótica**
 - **Diseño 3D**
 - **Arduino y Microcontroladores**
-- ** Y más!**
+- **Y más!**
 
